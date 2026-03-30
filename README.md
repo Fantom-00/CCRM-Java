@@ -1,6 +1,6 @@
 # Student Information
-*Name -* Akshit Singh
-*Reg No. -* 24BHI10078
+*Name -* Akshit Singh.
+*Reg No. -* 24BHI10078.
 
 
 ---
