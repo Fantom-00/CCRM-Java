@@ -1,3 +1,8 @@
+#Student Information
+Name - Akshit Singh
+Reg No. - 24BHI10078
+
+---
 
 # Campus Course & Records Manager (CCRM)
 
@@ -123,7 +128,3 @@ Importable CSVs live in `test-data/`:
 - Java standard docs for API references.
 
 > **Note on Integrity:** This repository is provided solely as a learning aid/starter. Please customize heavily and add your own work, screenshots, and demonstrations per your evaluator’s policy.
-
-# CCRM-Java
-Java Vityarthi project
- 40511825f86343c45c8bd81d6ec99944f4bd2c2d
