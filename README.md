@@ -1,8 +1,8 @@
-#Student Information
-Name - Akshit Singh
-Reg No. - 24BHI10078
+# Student Information
+*Name -* Akshit Singh
+*Reg No. -* 24BHI10078
 
-'''
+
 ---
 
 # Campus Course & Records Manager (CCRM)
